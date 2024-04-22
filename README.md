@@ -1,2 +1,2 @@
 # dashboard
-A next.js admin dashboard 
+A next.js admin dashboard. 
